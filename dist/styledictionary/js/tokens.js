@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 22 Nov 2020 15:45:09 GMT
+ * Generated on Sun, 22 Nov 2020 17:01:59 GMT
  */
 
 export const Dark = "#000000"; // Darl color
@@ -18,31 +18,31 @@ export const SmokeGray = "#53565a";
 export const White = "#ffffff";
 export const DarkGray = "#707070";
 export const Roboto37PtFamily = "Roboto";
-export const Roboto37PtWeight = "Regular";
+export const Roboto37PtWeight = "Bold";
 export const Roboto14PtFamily = "Roboto";
-export const Roboto14PtWeight = "Regular";
+export const Roboto14PtWeight = "Bold";
 export const Roboto25PtFamily = "Roboto";
-export const Roboto25PtWeight = "Regular";
+export const Roboto25PtWeight = "Bold";
 export const Roboto11PtFamily = "Roboto";
-export const Roboto11PtWeight = "Regular";
+export const Roboto11PtWeight = "Bold";
 export const Roboto28PtFamily = "Roboto";
-export const Roboto28PtWeight = "Regular";
+export const Roboto28PtWeight = "Bold";
 export const Roboto22PtFamily = "Roboto";
-export const Roboto22PtWeight = "Regular";
+export const Roboto22PtWeight = "Bold";
 export const Roboto18PtFamily = "Roboto";
-export const Roboto18PtWeight = "Regular";
+export const Roboto18PtWeight = "Bold";
 export const Roboto16PtFamily = "Roboto";
-export const Roboto16PtWeight = "Regular";
+export const Roboto16PtWeight = "Bold";
 export const Roboto12PtFamily = "Roboto";
-export const Roboto12PtWeight = "Regular";
+export const Roboto12PtWeight = "Bold";
 export const Roboto120PtFamily = "Roboto";
-export const Roboto120PtWeight = "Regular";
+export const Roboto120PtWeight = "Bold";
 export const Roboto50PtFamily = "Roboto";
-export const Roboto50PtWeight = "Regular";
+export const Roboto50PtWeight = "Bold";
 export const Roboto90PtFamily = "Roboto";
-export const Roboto90PtWeight = "Regular";
+export const Roboto90PtWeight = "Bold";
 export const Roboto67PtFamily = "Roboto";
-export const Roboto67PtWeight = "Regular";
+export const Roboto67PtWeight = "Bold";
 export const Roboto37PtSize = "37rem";
 export const Roboto14PtSize = "14rem";
 export const Roboto25PtSize = "25rem";

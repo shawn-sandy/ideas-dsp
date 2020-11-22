@@ -61,6 +61,24 @@
       "class": "component",
       "type": "page",
       "tags": [],
+      "id": "14e55720-2356-4723-ab60-7e3e06559a59",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "collection",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/52cfb6f8-1b5d-4596-5457-f6b67077d033",
+        "id": "93d7556f-24d0-4b00-84aa-3d0d97df9bc6",
+        "last_sync": "2020-11-22T16:49:00.504Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
       "id": "a30fbb9d-f73b-4b2d-aad6-cec09e42c8cc",
       "related_entity_ids": [],
       "snippets": {
@@ -187,6 +205,42 @@
       "class": "component",
       "type": "page",
       "tags": [],
+      "id": "dac37edd-8109-4414-a303-8d2bae954b0b",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Footer Attribution",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/52cfb6f8-1b5d-4596-5457-f6b67077d033",
+        "id": "317fe7d5-67bb-4769-93af-0615cc2b349a",
+        "last_sync": "2020-11-22T17:01:43.960Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "f6079c4b-63c0-431e-87d9-b8a4a45c446d",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Footer Info",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/52cfb6f8-1b5d-4596-5457-f6b67077d033",
+        "id": "be3a7ff3-a157-4d4b-bf83-e56772e3c995",
+        "last_sync": "2020-11-22T16:49:00.504Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
       "id": "9abafdfc-643d-4eee-ab0a-12b912400bca",
       "related_entity_ids": [],
       "snippets": {
@@ -287,6 +341,24 @@
       "class": "component",
       "type": "page",
       "tags": [],
+      "id": "a6e57b3a-1bfb-4043-a394-70ecb43b9dd0",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "",
+        "languages": {}
+      },
+      "name": "Hero",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/52cfb6f8-1b5d-4596-5457-f6b67077d033",
+        "id": "e4ecdf37-dd09-4cd7-b38b-8339fcf90f10",
+        "last_sync": "2020-11-22T17:01:43.960Z",
+        "sync": true
+      }
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
       "id": "9c7b08ee-7c1d-46ae-b958-91dc546f3b3e",
       "related_entity_ids": [],
       "snippets": {
@@ -309,12 +381,12 @@
       "snippets": {
         "trigger": "image",
         "languages": {
-          "html": " <picture>\n          <img src=\"\" alt=\"Image 2\" width=\"200px\" height=\"200px\">\n        </picture>"
+          "html": "<picture>\n  <img src=\"\" alt=\"Image 2\" width=\"200px\" height=\"200px\">\n</picture>"
         }
       },
       "name": "Image",
       "tags": [],
-      "last_updated": "2020-11-21T19:37:28.512Z",
+      "last_updated": "2020-11-22T16:28:04.204Z",
       "last_updated_by": ""
     },
     {
@@ -467,6 +539,26 @@
         "sync": true
       },
       "last_updated": "2020-11-21T18:47:48.998Z",
+      "last_updated_by": ""
+    },
+    {
+      "class": "component",
+      "type": "page",
+      "tags": [],
+      "id": "1a3c3a4a-a109-4cf9-8d1b-40a6d3a19ede",
+      "related_entity_ids": [],
+      "snippets": {
+        "trigger": "nav-default",
+        "languages": {}
+      },
+      "name": "Navbar (default)",
+      "ext-com_adobe-cclib": {
+        "source": "https://shared-assets.adobe.com/link/52cfb6f8-1b5d-4596-5457-f6b67077d033",
+        "id": "e6051dd2-090f-47bf-9ec5-a4a2e51aef6f",
+        "last_sync": "2020-11-22T16:49:00.504Z",
+        "sync": true
+      },
+      "last_updated": "2020-11-22T16:50:05.714Z",
       "last_updated_by": ""
     },
     {

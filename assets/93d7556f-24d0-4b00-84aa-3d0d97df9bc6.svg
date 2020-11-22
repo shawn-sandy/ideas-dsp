@@ -1,0 +1,77 @@
+<svg id="collection" xmlns="http://www.w3.org/2000/svg" width="1366" height="925" viewBox="0 0 1366 925">
+  <rect id="Background_STYLE:STYLE2_" data-name="Background [STYLE:STYLE2]" width="1366" height="925" fill="#ebebeb"/>
+  <text id="Description_STYLE:STYLE2_" data-name="Description [STYLE:STYLE2]" transform="translate(683 178)" fill="#3d3d3d" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-382.28" y="0">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</tspan></text>
+  <text id="Current_Openings_STYLE:STYLE2_TAG:H2_" data-name="Current Openings [STYLE:STYLE2][TAG:H2]" transform="translate(690.5 123)" fill="#3d3d3d" font-size="48" font-family="NotoSans-Bold, Noto Sans" font-weight="700"><tspan x="-153.72" y="0">We’re Hiring!</tspan></text>
+  <g id="Product_Designer" data-name="Product Designer" transform="translate(0 -3491)">
+    <text id="Product_Designer_STYLE:STYLE2_TAG:UI_L_" data-name="Product Designer [STYLE:STYLE2][TAG:UI_L]" transform="translate(143 3775)" fill="#3d3d3d" font-size="18" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">Product Designer</tspan></text>
+    <text id="Locations:_New_York_STYLE:STYLE2_TAG:P_" data-name="Locations: New York, [STYLE:STYLE2][TAG:P]" transform="translate(143 3805)" fill="#737373" font-size="16" font-family="NotoSans-Medium, Noto Sans" font-weight="500"><tspan x="0" y="0">Locations: New York, Dallas, Los Angeles, Denver, Chicago, Sao Paulo, San Francisco</tspan></text>
+    <line id="Line_STYLE:STYLE2_" data-name="Line [STYLE:STYLE2]" x2="1080" transform="translate(143 3834)" fill="none" stroke="#cfcfcf" stroke-width="2"/>
+    <g id="Button_" data-name="Button " transform="translate(1079 3756)">
+      <g id="Area_DISPLAY_ELEMENTS:Label_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_" data-name="Area [DISPLAY_ELEMENTS:Label][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="144" height="48" stroke="none"/>
+        <rect x="1" y="1" width="142" height="46" fill="none"/>
+      </g>
+      <text id="Label" transform="translate(72 30)" fill="#3e3e3e" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-22.056" y="0">Apply</tspan></text>
+    </g>
+  </g>
+  <g id="Account_Director" data-name="Account Director" transform="translate(0 -3491)">
+    <text id="Account_Director_STYLE:STYLE2_TAG:UI_L_" data-name="Account Director [STYLE:STYLE2][TAG:UI_L]" transform="translate(143 3877)" fill="#3d3d3d" font-size="18" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">Account Director</tspan></text>
+    <text id="Locations:_New_York_STYLE:STYLE2_TAG:P_2" data-name="Locations: New York, [STYLE:STYLE2][TAG:P]" transform="translate(143 3907)" fill="#737373" font-size="16" font-family="NotoSans-Medium, Noto Sans" font-weight="500"><tspan x="0" y="0">Locations: Hong Kong</tspan></text>
+    <line id="Line_STYLE:STYLE2_2" data-name="Line [STYLE:STYLE2]" x2="1080" transform="translate(143 3936)" fill="none" stroke="#cfcfcf" stroke-width="2"/>
+    <g id="Button_2" data-name="Button " transform="translate(1079 3858.324)">
+      <g id="Area_DISPLAY_ELEMENTS:Label_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_2" data-name="Area [DISPLAY_ELEMENTS:Label][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="144" height="48" stroke="none"/>
+        <rect x="1" y="1" width="142" height="46" fill="none"/>
+      </g>
+      <text id="Label-2" data-name="Label" transform="translate(72 30)" fill="#3e3e3e" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-22.056" y="0">Apply</tspan></text>
+    </g>
+  </g>
+  <g id="DMP_Data_Engineer" data-name="DMP Data Engineer" transform="translate(0 -3491)">
+    <text id="DMP_Data_Engineer_STYLE:STYLE2_TAG:UI_L_" data-name="DMP Data Engineer [STYLE:STYLE2][TAG:UI_L]" transform="translate(143 3979)" fill="#3d3d3d" font-size="18" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">DMP Data Engineer</tspan></text>
+    <text id="Locations:_New_York_STYLE:STYLE2_TAG:P_3" data-name="Locations: New York, [STYLE:STYLE2][TAG:P]" transform="translate(143 4009)" fill="#737373" font-size="16" font-family="NotoSans-Medium, Noto Sans" font-weight="500"><tspan x="0" y="0">Locations: Hong Kong, Chicago, Boston, San Francisco, Atlanta</tspan></text>
+    <line id="Line_STYLE:STYLE2_3" data-name="Line [STYLE:STYLE2]" x2="1080" transform="translate(143 4038)" fill="none" stroke="#cfcfcf" stroke-width="2"/>
+    <g id="Button_3" data-name="Button " transform="translate(1079 3960.324)">
+      <g id="Area_DISPLAY_ELEMENTS:Label_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_3" data-name="Area [DISPLAY_ELEMENTS:Label][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="144" height="48" stroke="none"/>
+        <rect x="1" y="1" width="142" height="46" fill="none"/>
+      </g>
+      <text id="Label-3" data-name="Label" transform="translate(72 30)" fill="#3e3e3e" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-22.056" y="0">Apply</tspan></text>
+    </g>
+  </g>
+  <g id="Account_Manager" data-name="Account Manager" transform="translate(0 -3491)">
+    <text id="Account_Manager_STYLE:STYLE2_TAG:UI_L_" data-name="Account Manager [STYLE:STYLE2][TAG:UI_L]" transform="translate(143 4081)" fill="#3d3d3d" font-size="18" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">Account Manager</tspan></text>
+    <text id="Locations:_New_York_STYLE:STYLE2_TAG:P_4" data-name="Locations: New York, [STYLE:STYLE2][TAG:P]" transform="translate(143 4111)" fill="#737373" font-size="16" font-family="NotoSans-Medium, Noto Sans" font-weight="500"><tspan x="0" y="0">Locations: Hong Kong</tspan></text>
+    <line id="Line_STYLE:STYLE2_4" data-name="Line [STYLE:STYLE2]" x2="1080" transform="translate(143 4140.324)" fill="none" stroke="#cfcfcf" stroke-width="2"/>
+    <g id="Button_4" data-name="Button " transform="translate(1079 4062.324)">
+      <g id="Area_DISPLAY_ELEMENTS:Label_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_4" data-name="Area [DISPLAY_ELEMENTS:Label][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="144" height="48" stroke="none"/>
+        <rect x="1" y="1" width="142" height="46" fill="none"/>
+      </g>
+      <text id="Label-4" data-name="Label" transform="translate(72 30)" fill="#3e3e3e" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-22.056" y="0">Apply</tspan></text>
+    </g>
+  </g>
+  <g id="Market_Director" data-name="Market Director" transform="translate(0 -3491)">
+    <text id="Market_Director_STYLE:STYLE2_TAG:UI_L_" data-name="Market Director [STYLE:STYLE2][TAG:UI_L]" transform="translate(143 4183)" fill="#3d3d3d" font-size="18" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">Market Director</tspan></text>
+    <text id="Locations:_New_York_STYLE:STYLE2_TAG:P_5" data-name="Locations: New York, [STYLE:STYLE2][TAG:P]" transform="translate(143 4213)" fill="#737373" font-size="16" font-family="NotoSans-Medium, Noto Sans" font-weight="500"><tspan x="0" y="0">Locations: New York, Chicago, Miami</tspan></text>
+    <line id="Line_STYLE:STYLE2_5" data-name="Line [STYLE:STYLE2]" x2="1080" transform="translate(143 4242)" fill="none" stroke="#cfcfcf" stroke-width="2"/>
+    <g id="Button_5" data-name="Button " transform="translate(1079 4164.324)">
+      <g id="Area_DISPLAY_ELEMENTS:Label_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_5" data-name="Area [DISPLAY_ELEMENTS:Label][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="144" height="48" stroke="none"/>
+        <rect x="1" y="1" width="142" height="46" fill="none"/>
+      </g>
+      <text id="Label-5" data-name="Label" transform="translate(72 30)" fill="#3e3e3e" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-22.056" y="0">Apply</tspan></text>
+    </g>
+  </g>
+  <g id="Staff_Accountant" data-name="Staff Accountant" transform="translate(0 -3491)">
+    <text id="Staff_Accountant_STYLE:STYLE2_TAG:UI_L_" data-name="Staff Accountant [STYLE:STYLE2][TAG:UI_L]" transform="translate(143 4285)" fill="#3d3d3d" font-size="18" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="0" y="0">Staff Accountant</tspan></text>
+    <text id="Locations:_New_York_STYLE:STYLE2_TAG:P_6" data-name="Locations: New York, [STYLE:STYLE2][TAG:P]" transform="translate(143 4315)" fill="#737373" font-size="16" font-family="NotoSans-Medium, Noto Sans" font-weight="500"><tspan x="0" y="0">Locations: San Francisco</tspan></text>
+    <line id="Line_STYLE:STYLE2_6" data-name="Line [STYLE:STYLE2]" x2="1080" transform="translate(143 4344)" fill="none" stroke="#cfcfcf" stroke-width="2"/>
+    <g id="Button_6" data-name="Button " transform="translate(1079 4266.324)">
+      <g id="Area_DISPLAY_ELEMENTS:Label_SIZE:MEDIUM_STATE:DEFAULT_STYLE:STYLE2_6" data-name="Area [DISPLAY_ELEMENTS:Label][SIZE:MEDIUM][STATE:DEFAULT][STYLE:STYLE2]" fill="#fff" stroke="#3e3e3e" stroke-width="2">
+        <rect width="144" height="48" stroke="none"/>
+        <rect x="1" y="1" width="142" height="46" fill="none"/>
+      </g>
+      <text id="Label-6" data-name="Label" transform="translate(72 30)" fill="#3e3e3e" font-size="16" font-family="NotoSans-SemiBold, Noto Sans" font-weight="600"><tspan x="-22.056" y="0">Apply</tspan></text>
+    </g>
+  </g>
+</svg>
